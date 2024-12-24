@@ -1,0 +1,4 @@
+name: ghostolotlparty
+version: '1.0-SNAPSHOT'
+main: dev.voik.ghostolotlparty.GhostolotlPartyPlugin
+api-version: '1.21'

@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "color": "red",
+    "name": "Red"
+  },
+  {
+    "index": 2,
+    "color": "orange",
+    "name": "Orange"
+  },
+  {
+    "index": 3,
+    "color": "yellow",
+    "name": "Yellow"
+  },
+  {
+    "index": 4,
+    "color": "green",
+    "name": "Green"
+  },
+  {
+    "index": 5,
+    "color": "blue",
+    "name": "Blue"
+  },
+  {
+    "index": 6,
+    "color": "purple",
+    "name": "Purple"
+  },
+  {
+    "index": 7,
+    "color": "white",
+    "name": "White"
+  },
+  {
+    "index": 8,
+    "color": "gray",
+    "name": "Gray"
+  }
+]
